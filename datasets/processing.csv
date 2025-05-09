@@ -1,0 +1,140 @@
+nom,genre,age,revenu,achats,profession
+Alice,Femme,34,55000,Oui,Ingénieure
+Bob,Homme,28,48000,Non,Commercial
+Charlie,Homme,45,62000,Oui,Professeur
+David,Homme,31,48000,Non,Artiste
+Eve,Femme,22,38000,Oui,Étudiante
+Grace,Femme,50,70000,Oui,Avocate
+Henry,Homme,31,52000,Non,Développeur
+Ivy,Femme,25,41000,Non,Designer
+Jack,Homme,39,65000,Oui,Manager
+Kelly,Femme,48,68000,Non,Infirmière
+Liam,Homme,27,43000,Oui,Consultant
+Mia,Femme,30,51000,Non,Journaliste
+Noah,Homme,51,71000,Oui,Chercheur
+Olivia,Femme,29,49000,Non,Comptable
+Owen,Homme,24,36000,Non,Technicien
+Penelope,Femme,42,60000,Oui,Architecte
+Quentin,Homme,36,58000,Non,Analyste
+Riley,Femme,26,45000,Oui,Marketeuse
+Samuel,Homme,55,75000,Non,Directeur
+Sophia,Femme,33,53000,Oui,Enseignante
+Theodore,Homme,23,39000,Non,Assistant
+Uma,Femme,47,65000,Non,Pharmacienne
+Victor,Homme,38,58000,Oui,Chef de projet
+Willow,Femme,21,32000,Non,Réceptionniste
+Xavier,Homme,59,80000,Non,Retraité
+Yara,Femme,35,53000,Oui,Graphiste
+Zack,Homme,27,41000,Non,Ouvrier
+Abigail,Femme,40,61000,Oui,Responsable RH
+Benjamin,Homme,32,50000,Non,Libraire
+Chloe,Femme,25,44000,Oui,Serveuse
+Daniel,Homme,52,72000,Non,Médecin
+Ella,Femme,28,47000,Oui,Secrétaire
+Finn,Homme,37,57000,Non,Electricien
+Gabriella,Femme,44,63000,Oui,Agente immobilière
+Henry,Homme,29,46000,Non,Plombier
+Isabella,Femme,57,78000,Oui,Notaire
+Jacob,Homme,22,37000,Non,Barman
+Lily,Femme,31,50000,Oui,Bibliothécaire
+Mason,Homme,41,59000,Non,Soudeur
+Nora,Femme,24,40000,Oui,Caissière
+Oliver,Homme,50,70000,Non,Dentiste
+Scarlett,Femme,34,51000,Non,Opticienne
+Sebastian,Homme,26,42000,Oui,Boucher
+Stella,Femme,46,66000,Non,Boulangère
+Thomas,Homme,33,52000,Non,Charpentier
+Victoria,Femme,23,38000,Oui,Fleuriste
+Wyatt,Homme,54,74000,Non,Garagiste
+Zoe,Femme,27,43000,Oui,Coiffeuse
+Adrian,Homme,39,56000,Non,Formateur
+Aubrey,Femme,30,49000,Oui,Traductrice
+Caleb,Homme,48,68000,Non,Logisticien
+Claire,Femme,21,35000,Oui,Animatrice
+Dominic,Homme,56,76000,Non,Expert-comptable
+Eleanor,Femme,32,50000,Oui,Orthophoniste
+Elijah,Homme,25,42000,Non,Réparateur informatique
+Hazel,Femme,43,61000,Oui,Psychologue
+Isaac,Homme,37,57000,Non,Assistant social
+Jade,Femme,29,46000,Oui,Diététicienne
+Julian,Homme,51,71000,Non,Urbaniste
+Katherine,Femme,22,38000,Oui,Guide touristique
+Leo,Homme,40,59000,Non,Agent de sécurité
+Luna,Femme,33,53000,Oui,Conseillère financière
+Michael,Homme,28,44000,Non,Technicien de laboratoire
+Natalie,Femme,58,79000,Oui,Conservatrice de musée
+Owen,Homme,24,39000,Non,Jardinier
+Piper,Femme,31,50000,Oui,Kinésithérapeute
+Quinn,Homme,45,64000,Non,Responsable marketing
+Ryan,Homme,26,41000,Oui,Vendeur
+Sadie,Femme,53,73000,Non,Bibliothécaire en chef
+Tristan,Homme,23,37000,Oui,Musicien
+Violet,Femme,36,55000,Non,Éditrice
+William,Homme,49,69000,Oui,Directeur d'école
+Ximena,Femme,27,43000,Non,Danseuse
+Yusuf,Homme,55,75000,Oui,Chef d'entreprise
+Zara,Femme,30,51000,Non,Styliste
+Aaron,Homme,34,52000,Oui,Ingénieur du son
+Bella,Femme,28,47000,Non,Photographe
+Carter,Homme,41,60000,Oui,Agent de voyage
+Daisy,Femme,25,40000,Non,Hôtesse de l'air
+Ethan,Homme,50,70000,Oui,Pilote
+Faith,Femme,32,51000,Non,ergothérapeute
+Gabriel,Homme,29,48000,Oui,Coach sportif
+Hannah,Femme,47,67000,Non,Directrice artistique
+Ian,Homme,24,38000,Oui,Animateur radio
+Jasmine,Femme,59,80000,Non,Retraitée
+Kevin,Homme,36,54000,Oui,Comédien
+Lauren,Femme,26,42000,Non,Mannequin
+Miles,Homme,43,61000,Oui,Statisticien
+Naomi,Femme,31,50000,Oui,Orthoptiste
+Preston,Homme,22,35000,Non,Réalisateur
+Skylar,Femme,38,56000,Oui,Scénariste
+Tyler,Homme,48,68000,Non,Chirurgien
+Vanessa,Femme,27,42000,Non,Thérapeute
+Wesley,Homme,56,76000,Oui,Vétérinaire
+Audrey,Femme,33,53000,Non,Chargée de communication
+Blake,Homme,23,39000,Oui,Peintre
+Caroline,Femme,40,57000,Non,Conseillère conjugale
+Dylan,Homme,51,71000,Oui,Actuaire
+Eva,Femme,29,49000,Non,Archiviste
+Grant,Homme,45,63000,Oui,Commissaire-priseur
+Hope,Femme,21,36000,Non,Assistante maternelle
+Joel,Homme,57,77000,Oui,Restaurateur
+Kendall,Femme,35,54000,Non,Responsable des ventes
+Lucas,Homme,42,60000,Oui,Avocat d'affaires
+Madeline,Femme,28,44000,Non,Conservatrice
+Nathan,Homme,53,73000,Oui,Juge
+Paige,Femme,30,51000,Non,Commissaire d'exposition
+Quinn,Homme,25,41000,Oui,Agent de joueurs
+Sarah,Femme,46,65000,Non,Directrice financière
+Trevor,Homme,37,55000,Oui,Sommelier
+Ursula,Femme,24,40000,Non,Guide interprète
+Vincent,Homme,49,69000,Oui,Directeur des opérations
+Willa,Femme,31,48000,Non,Conceptrice de jeux vidéo
+Xander,Homme,55,75000,Oui,Courtier en assurances
+Yasmine,Femme,22,37000,Non,Créatrice de contenu
+Adam,Homme,39,58000,Oui,Responsable de la sécurité
+Brooke,Femme,27,43000,Non,Réalisatrice de documentaires
+Cole,Homme,44,62000,Oui,Directeur de la publication
+Delilah,Femme,33,52000,Non,Rédactrice en chef
+Ezra,Homme,52,72000,Oui,Urbaniste
+Finley,Femme,26,40000,Non,Illustratrice
+George,Homme,40,59000,Oui,Responsable qualité
+Harper,Femme,29,48000,Non,Organisatrice d'événements
+Isaac,Homme,50,70000,Oui,Directeur de la communication
+Julia,Femme,34,51000,Non,Chargée de projet
+Kyle,Homme,23,37000,Oui,Technicien son et lumière
+Leah,Femme,31,50000,Non,Responsable du développement durable
+Matthew,Homme,47,66000,Oui,Directeur des ressources humaines
+Nevaeh,Femme,25,45000,Non,Community manager
+Oscar,Homme,58,78000,Oui,Professeur d'université
+Penelope,Femme,30,49000,Non,Responsable de la formation
+Quincy,Homme,36,53000,Oui,Data scientist
+Ruby,Femme,28,42000,Non,Analyste financier
+Silas,Homme,54,74000,Oui,Directeur technique
+Taylor,Femme,21,35000,Non,Assistante de direction
+Uriah,Homme,41,60000,Oui,Responsable des achats
+Valerie,Femme,32,49000,Non,Chargée de marketing digital
+Wyatt,Homme,56,76000,Oui,Directeur général
+Zariah,Femme,24,38000,Non,Conceptrice UX/UI
